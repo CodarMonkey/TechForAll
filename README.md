@@ -5,6 +5,6 @@ Status: Em desenvolvimento
 
 Como usar?
 
- baixar os arquivos do projeto 
+ baixar os arquivos do projeto;
  abrir index
 
