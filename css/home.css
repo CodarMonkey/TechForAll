@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.wlc-body{
+    background-color: rgb(199, 193, 193);
+}
+
+.wlc-header{
+    background-color: aqua;
+    display: flex;
+}
+
+.wlc-nav{
+    
+}
+.wul-principal{
+    display: flex;
+    gap: 5%;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.wul-principal a{
+    text-decoration: none;
+}
+
+.wul-sub{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+
+
+
