@@ -1,0 +1,42 @@
+.wlc-header{
+    padding: 1em 3em;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between; 
+}
+
+.wlc-logo{
+    width: 24px;
+    height: 24px;
+    background-color: black;
+}
+
+.wlc-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.wlc-h1{
+    padding-left: 0.3em;
+}
+
+.wlc-nav{
+    
+}
+
+.wul-principal{
+    display: flex;
+    list-style-type: none;
+    gap: 5%;
+    
+}
+
+.wul-principal a{
+    text-decoration: none;
+}
+
+.wul-sub{
+    text-decoration: none;
+    list-style-type: none;
+}
